@@ -1,4 +1,4 @@
-import 'package:dart_fp_pipe/immutable_dart_fp.dart';
+import 'package:dart_fp_pipe/dart_fp_pipe.dart';
 
 int add(int a, int b) => a + b;
 
