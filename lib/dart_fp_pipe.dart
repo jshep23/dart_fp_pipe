@@ -3,4 +3,5 @@
 /// More dartdocs go here.
 library;
 
-export 'src/extensions.dart';
+export 'src/value_pipe_extensions.dart';
+export 'src/function_pipe_extensions.dart';
