@@ -24,7 +24,7 @@ extension Pipe2<T1> on T1 {
   /// Example:
   /// ```dart
   /// int calculateAgeInDogYears(int age, int dogYearsPerHumanYear) => age * dogYearsPerHumanYear;
-  /// String getAgeMessage(String name, int age) => '$name is $age years old in dog years';
+  /// String getAgeMessage(int age, String name) => '$name is $age years old in dog years';
   ///
   /// void main() {
   ///  calculateAgeInDogYears(10, 7)
